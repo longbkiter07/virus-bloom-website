@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://virus-bloom.lnttapps.net/sitemap.xml
